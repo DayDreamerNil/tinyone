@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Roboto&display=swap');
+/*common css*/
+body{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:#898989;
+
+}
+/*header strat*/
+header{
+background-color: #fcdb00;
+padding:20px 0;
+}
+.c_nav{}
+.logo{}
+.menu{}
+.menu ul li a{
+    font-size: 22px;
+    font-weight: 700;
+    color: #010101 !important;
+    padding: 0 30px !important;
+    
+ 
+}
+.menu ul li a:last-child{
+    padding-right:0 !important ;
+}
+.menu ul li a:hover{
+    color: white !important;
+}
+/*header end*/
+/*slider strat*/
+.slider{
+
+}
+.s_text{
+    font-size: 32px;
+    font-weight: 700;
+    color:#010101 ;
+}
+.s_text h1{}
+.s_text h2{}
+.s_text p{}
+.s_icon{
+    
+}
+.s_icon ul li i{
+
+}
+.s_image{}
+.s_image img {}
+/*slider end*/
+
+
+
+
